@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\obj\Debug\ExerciseWeek3_MosesAdhi.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\obj\Debug\ExerciseWeek3_MosesAdhi.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\bin\Debug\ExerciseWeek3_MosesAdhi.exe.config
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\bin\Debug\ExerciseWeek3_MosesAdhi.exe
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\bin\Debug\ExerciseWeek3_MosesAdhi.pdb
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\obj\Debug\ExerciseWeek3_MosesAdhi.exe
+C:\Users\acer\source\repos\ExerciseWeek3_MosesAdhi\ExerciseWeek3_MosesAdhi\obj\Debug\ExerciseWeek3_MosesAdhi.pdb
